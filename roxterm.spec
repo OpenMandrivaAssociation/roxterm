@@ -1,6 +1,6 @@
 Summary:        A highly configurable terminal emulator
 Name:           roxterm
-Version:        3.12.1
+Version:        3.18.2
 Release:        1
 License:        GPLv2+
 Group:			Terminals
